@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitSubtreeSub.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc5ef012cbf5215ff7e5c152c603961549af1657")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3840f067b0b14286c707ce78071ea3a6d2fdf78")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitSubtreeSub.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitSubtreeSub.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

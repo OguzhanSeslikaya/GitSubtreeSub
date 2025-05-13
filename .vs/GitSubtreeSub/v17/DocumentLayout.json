@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\O\u011FuzhanSeslikaya(Tal\\Desktop\\Projects\\GitSubtreeSub\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FFC833F9-80A5-4F0A-834A-3EF3B6707042}|GitSubtreeSub.Api\\GitSubtreeSub.Api.csproj|c:\\users\\o\u011Fuzhanseslikaya(tal\\desktop\\projects\\gitsubtreesub\\gitsubtreesub.api\\controllers\\bannersmodule\\bannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC833F9-80A5-4F0A-834A-3EF3B6707042}|GitSubtreeSub.Api\\GitSubtreeSub.Api.csproj|solutionrelative:gitsubtreesub.api\\controllers\\bannersmodule\\bannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FFC833F9-80A5-4F0A-834A-3EF3B6707042}|GitSubtreeSub.Api\\GitSubtreeSub.Api.csproj|c:\\users\\o\u011Fuzhanseslikaya(tal\\desktop\\projects\\gitsubtreesub\\gitsubtreesub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFC833F9-80A5-4F0A-834A-3EF3B6707042}|GitSubtreeSub.Api\\GitSubtreeSub.Api.csproj|solutionrelative:gitsubtreesub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -99,6 +103,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BannersController.cs",
+              "DocumentMoniker": "C:\\Users\\O\u011FuzhanSeslikaya(Tal\\Desktop\\Projects\\GitSubtreeSub\\GitSubtreeSub.Api\\Controllers\\BannersModule\\BannersController.cs",
+              "RelativeDocumentMoniker": "GitSubtreeSub.Api\\Controllers\\BannersModule\\BannersController.cs",
+              "ToolTip": "C:\\Users\\O\u011FuzhanSeslikaya(Tal\\Desktop\\Projects\\GitSubtreeSub\\GitSubtreeSub.Api\\Controllers\\BannersModule\\BannersController.cs",
+              "RelativeToolTip": "GitSubtreeSub.Api\\Controllers\\BannersModule\\BannersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:33:55.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\O\u011FuzhanSeslikaya(Tal\\Desktop\\Projects\\GitSubtreeSub\\GitSubtreeSub.Api\\Program.cs",
               "RelativeDocumentMoniker": "GitSubtreeSub.Api\\Program.cs",

@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Banner.Api.Controllers.BannersController",
+    "Method": "Get",
+    "RelativePath": "api/Banners",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
