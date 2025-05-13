@@ -1,0 +1,12 @@
+C:\Users\OğuzhanSeslikaya(Tal\Desktop\Projects\GitSubtreeSub\GitSubtreeSub.Service\bin\Debug\net9.0\GitSubtreeSub.Service.deps.json
+C:\Users\OğuzhanSeslikaya(Tal\Desktop\Projects\GitSubtreeSub\GitSubtreeSub.Service\bin\Debug\net9.0\GitSubtreeSub.Service.dll
+C:\Users\OğuzhanSeslikaya(Tal\Desktop\Projects\GitSubtreeSub\GitSubtreeSub.Service\bin\Debug\net9.0\GitSubtreeSub.Service.pdb
+C:\Users\OğuzhanSeslikaya(Tal\Desktop\Projects\GitSubtreeSub\GitSubtreeSub.Service\obj\Debug\net9.0\GitSubtreeSub.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OğuzhanSeslikaya(Tal\Desktop\Projects\GitSubtreeSub\GitSubtreeSub.Service\obj\Debug\net9.0\GitSubtreeSub.Service.AssemblyInfoInputs.cache
+C:\Users\OğuzhanSeslikaya(Tal\Desktop\Projects\GitSubtreeSub\GitSubtreeSub.Service\obj\Debug\net9.0\GitSubtreeSub.Service.AssemblyInfo.cs
+C:\Users\OğuzhanSeslikaya(Tal\Desktop\Projects\GitSubtreeSub\GitSubtreeSub.Service\obj\Debug\net9.0\GitSubtreeSub.Service.csproj.CoreCompileInputs.cache
+C:\Users\OğuzhanSeslikaya(Tal\Desktop\Projects\GitSubtreeSub\GitSubtreeSub.Service\obj\Debug\net9.0\GitSubtreeSub.Service.sourcelink.json
+C:\Users\OğuzhanSeslikaya(Tal\Desktop\Projects\GitSubtreeSub\GitSubtreeSub.Service\obj\Debug\net9.0\GitSubtreeSub.Service.dll
+C:\Users\OğuzhanSeslikaya(Tal\Desktop\Projects\GitSubtreeSub\GitSubtreeSub.Service\obj\Debug\net9.0\refint\GitSubtreeSub.Service.dll
+C:\Users\OğuzhanSeslikaya(Tal\Desktop\Projects\GitSubtreeSub\GitSubtreeSub.Service\obj\Debug\net9.0\GitSubtreeSub.Service.pdb
+C:\Users\OğuzhanSeslikaya(Tal\Desktop\Projects\GitSubtreeSub\GitSubtreeSub.Service\obj\Debug\net9.0\ref\GitSubtreeSub.Service.dll

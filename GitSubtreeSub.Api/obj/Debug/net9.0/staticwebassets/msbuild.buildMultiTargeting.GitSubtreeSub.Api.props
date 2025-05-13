@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GitSubtreeSub.Api.props" />
+</Project>

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "M4UtYLOsVRSq91cDsjDp5WlIOHkpjiEHHatuPjOuiPk=",
+  "Source": "GitSubtreeSub.Api",
+  "BasePath": "_content/GitSubtreeSub.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
