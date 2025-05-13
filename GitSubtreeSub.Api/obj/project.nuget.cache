@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rydg/kGoJeo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OğuzhanSeslikaya(Tal\\Desktop\\Projects\\GitSubtreeSub\\GitSubtreeSub.Api\\GitSubtreeSub.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OğuzhanSeslikaya(Tal\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\OğuzhanSeslikaya(Tal\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
